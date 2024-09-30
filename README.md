@@ -30,12 +30,15 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0007 |[Reverse Integer](src/main/dart/g0001_0100/s0007_reverse_integer/Solution.dart)| Medium | Top_Interview_Questions, Math | 340 | 99.50
+| 0009 |[Palindrome Number](src/main/dart/g0001_0100/s0009_palindrome_number/Solution.dart)| Easy | Math | 518 | 95.59
 
 #### Udemy Strings
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[Longest Substring Without Repeating Characters](src/main/dart/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 336 | 99.68
+| 0020 |[Valid Parentheses](src/main/dart/g0001_0100/s0020_valid_parentheses/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 298 | 95.87
 | 0005 |[Longest Palindromic Substring](src/main/dart/g0001_0100/s0005_longest_palindromic_substring/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 297 | 97.22
 
 #### Udemy Binary Search
@@ -53,6 +56,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/dart/g0001_0100/s0015_3sum/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 370 | 100.00
 
 #### Udemy Famous Algorithm
 
@@ -93,11 +97,13 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0010 |[Regular Expression Matching](src/main/dart/g0001_0100/s0010_regular_expression_matching/Solution.dart)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 341 | 81.82
 
 #### Udemy Backtracking/Recursion
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/dart/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 293 | 92.50
 
 #### Udemy Bit Manipulation
 
@@ -156,6 +162,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0020 |[Valid Parentheses](src/main/dart/g0001_0100/s0020_valid_parentheses/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 298 | 95.87
 
 #### Day 10 Tree
 
@@ -188,6 +195,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/dart/g0001_0100/s0015_3sum/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 370 | 100.00
 
 #### Day 2 Array
 
@@ -317,6 +325,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/dart/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 321 | 93.59
 
 #### Day 6 Sliding Window
 
@@ -380,11 +389,13 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/dart/g0001_0100/s0015_3sum/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 370 | 100.00
 
 #### Day 4 Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0011 |[Container With Most Water](src/main/dart/g0001_0100/s0011_container_with_most_water/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 337 | 96.77
 
 #### Day 5 Sliding Window
 
@@ -420,6 +431,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/dart/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 293 | 92.50
 
 #### Day 12 Dynamic Programming
 
@@ -1127,6 +1139,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/dart/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 321 | 93.59
 
 #### Day 4 Linked List
 
@@ -1218,6 +1231,16 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0020 |[Valid Parentheses](src/main/dart/g0001_0100/s0020_valid_parentheses/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Data_Structure_I_Day_9_Stack_Queue, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 298 | 95.87
+| 0019 |[Remove Nth Node From End of List](src/main/dart/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Algorithm_I_Day_5_Two_Pointers, Level_2_Day_3_Linked_List, Big_O_Time_O(L)_Space_O(L) | 321 | 93.59
+| 0017 |[Letter Combinations of a Phone Number](src/main/dart/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(4^n)_Space_O(n) | 293 | 92.50
+| 0015 |[3Sum](src/main/dart/g0001_0100/s0015_3sum/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 370 | 100.00
+| 0011 |[Container With Most Water](src/main/dart/g0001_0100/s0011_container_with_most_water/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 337 | 96.77
+| 0010 |[Regular Expression Matching](src/main/dart/g0001_0100/s0010_regular_expression_matching/Solution.dart)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 341 | 81.82
+| 0009 |[Palindrome Number](src/main/dart/g0001_0100/s0009_palindrome_number/Solution.dart)| Easy | Math, Udemy_Integers | 518 | 95.59
+| 0008 |[String to Integer (atoi)](src/main/dart/g0001_0100/s0008_string_to_integer_atoi/Solution.dart)| Medium | Top_Interview_Questions, String | 349 | 85.92
+| 0007 |[Reverse Integer](src/main/dart/g0001_0100/s0007_reverse_integer/Solution.dart)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 340 | 99.50
+| 0006 |[Zigzag Conversion](src/main/dart/g0001_0100/s0006_zigzag_conversion/Solution.dart)| Medium | String | 374 | 94.79
 | 0005 |[Longest Palindromic Substring](src/main/dart/g0001_0100/s0005_longest_palindromic_substring/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 297 | 97.22
 | 0004 |[Median of Two Sorted Arrays](src/main/dart/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.dart)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1) | 393 | 100.00
 | 0003 |[Longest Substring Without Repeating Characters](src/main/dart/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1) | 336 | 99.68
