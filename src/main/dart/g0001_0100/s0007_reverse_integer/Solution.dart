@@ -7,8 +7,8 @@ class Solution {
     int reverseNumber = 0;
     final int maxValue = 0x7fffffff;
     while (number != 0) {
-      reverseNumber = reverseNumber * 10 + number%10;
-      number = (number/10).toInt();
+      reverseNumber = reverseNumber * 10 + number % 10;
+      number = (number / 10).toInt();
     }
     if (reverseNumber > maxValue) {
       return 0;

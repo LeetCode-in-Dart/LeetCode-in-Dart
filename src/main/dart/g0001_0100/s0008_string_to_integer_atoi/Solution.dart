@@ -2,8 +2,17 @@
 
 class Solution {
   static const digits = {
-      "1": 1, "2": 2, "3": 3, "4": 4, "5": 5, "6": 6, "7": 7, "8": 8, "9": 9, "0": 0
-    };
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "0": 0
+  };
   static const MAX = 2147483647;
   static const MIN = -2147483648;
 
@@ -13,11 +22,11 @@ class Solution {
     int current = 0;
     // skip whitespaces
     while (current < s.length && s[current] == ' ') {
-        current++;
+      current++;
     }
     //read sign
     if (current < s.length && (s[current] == '-' || s[current] == '+')) {
-        sign = s[current++] == '-' ? -1 : 1;
+      sign = s[current++] == '-' ? -1 : 1;
     }
     // read digits
     while (current < s.length && digits.containsKey(s[current])) {

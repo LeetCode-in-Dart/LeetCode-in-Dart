@@ -28,7 +28,8 @@ class Solution {
 
     // Handle '*' wildcard in the pattern
     if (j + 1 < p.length && p[j + 1] == '*') {
-      result = (firstMatch && isMatchHelper(s, p, i + 1, j)) || isMatchHelper(s, p, i, j + 2);
+      result = (firstMatch && isMatchHelper(s, p, i + 1, j)) ||
+          isMatchHelper(s, p, i, j + 2);
     } else {
       result = firstMatch && isMatchHelper(s, p, i + 1, j + 1);
     }

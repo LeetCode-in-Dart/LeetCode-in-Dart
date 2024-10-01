@@ -11,7 +11,7 @@ class Solution {
 
     while (lo <= hi) {
       mid = ((hi - lo) >> 1) + lo;
-      
+
       if (target == nums[mid]) {
         return mid;
       }
@@ -24,7 +24,7 @@ class Solution {
         } else {
           lo = mid + 1;
         }
-      } 
+      }
       // Otherwise, the right half is sorted
       else {
         // Check if the target is within the sorted right half
