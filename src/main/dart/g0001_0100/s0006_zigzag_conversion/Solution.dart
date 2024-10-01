@@ -8,7 +8,7 @@ class Solution {
     }
     int maxDist = numRows * 2 - 2;
     StringBuffer buf = StringBuffer();
-    
+
     for (int i = 0; i < numRows; i++) {
       int index = i;
       if (i == 0 || i == numRows - 1) {

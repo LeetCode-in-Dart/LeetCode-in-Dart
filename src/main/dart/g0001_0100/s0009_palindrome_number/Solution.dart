@@ -2,14 +2,14 @@
 
 class Solution {
   bool isPalindrome(int x) {
-    if(x<0) {
-        return false;
+    if (x < 0) {
+      return false;
     }
     int temp = x;
     int rev = 0;
-    while (temp != 0){
-        rev = temp%10 + rev*10;
-        temp ~/= 10;
+    while (temp != 0) {
+      rev = temp % 10 + rev * 10;
+      temp ~/= 10;
     }
     return x == rev;
   }
