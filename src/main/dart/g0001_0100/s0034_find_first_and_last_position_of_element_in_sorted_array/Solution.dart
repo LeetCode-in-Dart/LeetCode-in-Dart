@@ -3,17 +3,17 @@
 // #2024_10_01_Time_321_ms_(92.86%)_Space_150.3_MB_(48.57%)
 
 class Solution {
-    List<int> searchRange(List<int> nums, int target) {
-        int? firstIndex = null;
-        int? secondIndex = null;
-        for (int i = 0; i < nums.length; i++) {
-            if (firstIndex == null && nums[i] == target) {
-            firstIndex = i;
-            }
-            if (firstIndex != null && nums[i] == target) {
-            secondIndex = i;
-            }
-        }
-        return [firstIndex ?? -1, secondIndex ?? -1];
+  List<int> searchRange(List<int> nums, int target) {
+    int? firstIndex = null;
+    int? secondIndex = null;
+    for (int i = 0; i < nums.length; i++) {
+      if (firstIndex == null && nums[i] == target) {
+        firstIndex = i;
+      }
+      if (firstIndex != null && nums[i] == target) {
+        secondIndex = i;
+      }
     }
+    return [firstIndex ?? -1, secondIndex ?? -1];
+  }
 }
