@@ -1,9 +1,9 @@
 // #Medium #Top_100_Liked_Questions #Array #Two_Pointers #Big_O_Time_O(n)_Space_O(1)
-// #2024_10_01_Time_304_ms_(100.00%)_Space_148.4_MB_(53.85%)
+// #2024_10_03_Time_315_ms_(94.12%)_Space_148.7_MB_(47.06%)
 
 class Solution {
   void nextPermutation(List<int> nums) {
-    if (nums == null || nums.length <= 1) {
+    if (nums.length <= 1) {
       return;
     }
     int i = nums.length - 2;
