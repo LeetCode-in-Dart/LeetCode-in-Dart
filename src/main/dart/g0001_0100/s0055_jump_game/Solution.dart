@@ -3,15 +3,16 @@
 // #Big_O_Time_O(n)_Space_O(1) #2024_10_04_Time_331_ms_(97.53%)_Space_154.7_MB_(69.14%)
 
 class Solution {
-    bool canJump(List<int> nums) {
-        int maxReach = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (i > maxReach) {
-                return false;
-            }
-            maxReach = max(maxReach, i + nums[i]);
-        }
-
-        return true;
+  bool canJump(List<int> nums) {
+    int maxReach = 0;
+    
+    for (int i = 0; i < nums.length; i++) {
+      if (i > maxReach) {
+        return false;
+      }
+      maxReach = max(maxReach, i + nums[i]);
     }
+
+    return true;
+  }
 }
