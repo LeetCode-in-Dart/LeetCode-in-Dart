@@ -16,7 +16,7 @@ class Solution {
       ans.add(List<int>.from(temp));
       return;
     }
-    
+
     for (int i = 0; i < nums.length; i++) {
       if (used[i]) continue;
       temp.add(nums[i]);
