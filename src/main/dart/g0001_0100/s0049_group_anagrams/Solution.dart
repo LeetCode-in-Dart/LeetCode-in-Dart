@@ -13,7 +13,7 @@ class Solution {
         List<String> charList = s.split('');
         charList.sort();
         String sortedS = charList.join();
-        
+
         if (m[sortedS] == null) {
           m[sortedS] = [s];
         } else {

@@ -13,7 +13,8 @@ class Solution {
   void combinationSumRec(int n, List<int> coins, int amount, List<int> subList, List<List<int>> ans) {
     if (amount == 0 || n == 0) {
       if (amount == 0) {
-        ans.add(List.from(subList)); // Create a new list from subList and add to ans
+        // Create a new list from subList and add to ans
+        ans.add(List.from(subList));
       }
       return;
     }
@@ -21,7 +22,8 @@ class Solution {
     if (amount - coins[n - 1] >= 0) {
       subList.add(coins[n - 1]);
       combinationSumRec(n, coins, amount - coins[n - 1], subList, ans);
-      subList.removeLast(); // Remove the last element
+      // Remove the last element
+      subList.removeLast();
     }
 
     combinationSumRec(n - 1, coins, amount, subList, ans);
