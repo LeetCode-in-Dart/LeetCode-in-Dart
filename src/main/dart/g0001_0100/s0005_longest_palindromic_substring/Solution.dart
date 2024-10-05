@@ -21,8 +21,8 @@ class Solution {
     for (int i = 0; i < newStr.length; i++) {
       dp[i] = (friendCenter + friendRadius > i)
           ? (dp[friendCenter * 2 - i] < (friendCenter + friendRadius) - i
-          ? dp[friendCenter * 2 - i]
-          : (friendCenter + friendRadius) - i)
+              ? dp[friendCenter * 2 - i]
+              : (friendCenter + friendRadius) - i)
           : 1;
 
       while (i + dp[i] < newStr.length &&

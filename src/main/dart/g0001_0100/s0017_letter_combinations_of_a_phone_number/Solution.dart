@@ -27,6 +27,7 @@ class Solution {
         backTracking(digit + character, index + 1, ans);
       }
     }
+
     backTracking('', 0, ans);
     return ans;
   }

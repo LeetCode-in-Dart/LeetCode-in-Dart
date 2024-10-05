@@ -10,13 +10,14 @@ class Solution {
     helper(ans, [], used, nums);
     return ans;
   }
-  
-  void helper(List<List<int>> ans, List<int> temp, List<bool> used, List<int> nums) {
+
+  void helper(
+      List<List<int>> ans, List<int> temp, List<bool> used, List<int> nums) {
     if (temp.length == nums.length) {
       ans.add(List<int>.from(temp));
       return;
     }
-    
+
     for (int i = 0; i < nums.length; i++) {
       if (used[i]) continue;
       temp.add(nums[i]);

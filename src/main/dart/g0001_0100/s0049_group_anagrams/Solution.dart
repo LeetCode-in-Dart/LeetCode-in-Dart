@@ -6,14 +6,18 @@ class Solution {
   List<List<String>> groupAnagrams(List<String> strs) {
     Map<String, List<String>> m = {};
 
-    if (strs.length == 1) return [strs];
-    else if (strs.length == 0) return [[""]];
+    if (strs.length == 1)
+      return [strs];
+    else if (strs.length == 0)
+      return [
+        [""]
+      ];
     else {
       for (String s in strs) {
         List<String> charList = s.split('');
         charList.sort();
         String sortedS = charList.join();
-        
+
         if (m[sortedS] == null) {
           m[sortedS] = [s];
         } else {

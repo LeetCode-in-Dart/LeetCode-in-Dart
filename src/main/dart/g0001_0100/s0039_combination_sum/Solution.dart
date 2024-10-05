@@ -10,10 +10,12 @@ class Solution {
     return ans;
   }
 
-  void combinationSumRec(int n, List<int> coins, int amount, List<int> subList, List<List<int>> ans) {
+  void combinationSumRec(int n, List<int> coins, int amount, List<int> subList,
+      List<List<int>> ans) {
     if (amount == 0 || n == 0) {
       if (amount == 0) {
-        ans.add(List.from(subList)); // Create a new list from subList and add to ans
+        ans.add(List.from(
+            subList)); // Create a new list from subList and add to ans
       }
       return;
     }

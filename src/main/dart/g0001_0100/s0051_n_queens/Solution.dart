@@ -3,7 +3,8 @@
 
 class Solution {
   List<List<String>> solveNQueens(int n) {
-    final List<List<String>> board = List.generate(n, (_) => List<String>.filled(n, '.'));
+    final List<List<String>> board =
+        List.generate(n, (_) => List<String>.filled(n, '.'));
     final List<List<String>> ans = [];
     backtrack(board, ans, 0, 0, n);
     return ans;
@@ -31,7 +32,8 @@ class Solution {
     return true;
   }
 
-  void backtrack(List<List<String>> board, List<List<String>> ans, int row, int col, int queens) {
+  void backtrack(List<List<String>> board, List<List<String>> ans, int row,
+      int col, int queens) {
     if (row == queens) {
       ans.add(convert(board));
       return;

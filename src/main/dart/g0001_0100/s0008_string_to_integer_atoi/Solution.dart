@@ -34,8 +34,7 @@ class Solution {
       // check owerflow
       if (sign == -1 && res < (MIN + digit) / 10) {
         return MIN;
-      }
-      else if (res > (MAX - digit) / 10) {
+      } else if (res > (MAX - digit) / 10) {
         return MAX;
       }
 

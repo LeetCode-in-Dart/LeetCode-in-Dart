@@ -9,7 +9,7 @@ class Solution {
         leftMax = 0,
         rightMax = 0,
         water = 0;
-        
+
     while (left < right) {
       leftMax = max(leftMax, heigth[left]);
       rightMax = max(rightMax, heigth[right]);
@@ -17,7 +17,7 @@ class Solution {
           ? leftMax - heigth[left++]
           : rightMax - heigth[right--];
     }
-    
+
     return water;
   }
 }

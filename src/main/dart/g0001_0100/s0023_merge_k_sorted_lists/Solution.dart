@@ -18,8 +18,8 @@ class Solution {
     return mergeKListsHelper(lists, 0, lists.length);
   }
 
-  ListNode? mergeKListsHelper(List<ListNode?> lists, int leftIndex,
-      int rightIndex) {
+  ListNode? mergeKListsHelper(
+      List<ListNode?> lists, int leftIndex, int rightIndex) {
     if (rightIndex > leftIndex + 1) {
       int mid = (leftIndex + rightIndex) ~/ 2;
       ListNode? left = mergeKListsHelper(lists, leftIndex, mid);
