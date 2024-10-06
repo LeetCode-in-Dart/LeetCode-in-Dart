@@ -80,11 +80,15 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/dart/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 287 | 95.71
 
 #### Day 11 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/dart/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 329 | 87.50
+| 0104 |[Maximum Depth of Binary Tree](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 319 | 91.67
+| 0101 |[Symmetric Tree](src/main/dart/g0101_0200/s0101_symmetric_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 316 | 95.59
 
 #### Day 12 Tree
 
@@ -100,6 +104,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/dart/g0001_0100/s0098_validate_binary_search_tree/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 326 | 84.09
 
 ### Data Structure II
 
@@ -186,6 +191,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/dart/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 315 | 100.00
 
 #### Day 16 Tree
 
@@ -360,6 +366,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0017 |[Letter Combinations of a Phone Number](src/main/dart/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 293 | 92.50
 | 0022 |[Generate Parentheses](src/main/dart/g0001_0100/s0022_generate_parentheses/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 312 | 79.37
+| 0079 |[Word Search](src/main/dart/g0001_0100/s0079_word_search/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 523 | 88.46
 
 #### Day 12 Dynamic Programming
 
@@ -645,6 +652,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0096 |[Unique Binary Search Trees](src/main/dart/g0001_0100/s0096_unique_binary_search_trees/Solution.dart)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 312 | 100.00
 
 #### Day 12
 
@@ -751,6 +759,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 319 | 91.67
 
 #### Day 11 Containers and Libraries
 
@@ -1023,6 +1032,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/dart/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 329 | 87.50
 
 #### Day 7 Binary Search
 
@@ -1033,6 +1043,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/dart/g0001_0100/s0098_validate_binary_search_tree/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 326 | 84.09
 
 #### Day 9 Graph/BFS/DFS
 
@@ -1153,6 +1164,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/dart/g0101_0200/s0101_symmetric_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 316 | 95.59
 
 #### Day 16 Design
 
@@ -1246,6 +1258,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0114 |[Flatten Binary Tree to Linked List](src/main/dart/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.dart)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 316 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/dart/g0001_0100/s0024_swap_nodes_in_pairs/Solution.dart)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 313 | 89.36
 | 0021 |[Merge Two Sorted Lists](src/main/dart/g0001_0100/s0021_merge_two_sorted_lists/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 333 | 81.94
 | 0025 |[Reverse Nodes in k-Group](src/main/dart/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.dart)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 357 | 73.33
@@ -1254,6 +1267,10 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/dart/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 287 | 95.71
+| 0102 |[Binary Tree Level Order Traversal](src/main/dart/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 329 | 87.50
+| 0104 |[Maximum Depth of Binary Tree](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 319 | 91.67
+| 0098 |[Validate Binary Search Tree](src/main/dart/g0001_0100/s0098_validate_binary_search_tree/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 326 | 84.09
 
 #### Udemy Trie and Heap
 
@@ -1298,6 +1315,16 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0114 |[Flatten Binary Tree to Linked List](src/main/dart/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.dart)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 316 | 100.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/dart/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 315 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 319 | 91.67
+| 0102 |[Binary Tree Level Order Traversal](src/main/dart/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 329 | 87.50
+| 0101 |[Symmetric Tree](src/main/dart/g0101_0200/s0101_symmetric_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 316 | 95.59
+| 0098 |[Validate Binary Search Tree](src/main/dart/g0001_0100/s0098_validate_binary_search_tree/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 326 | 84.09
+| 0096 |[Unique Binary Search Trees](src/main/dart/g0001_0100/s0096_unique_binary_search_trees/Solution.dart)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 312 | 100.00
+| 0094 |[Binary Tree Inorder Traversal](src/main/dart/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 287 | 95.71
+| 0084 |[Largest Rectangle in Histogram](src/main/dart/g0001_0100/s0084_largest_rectangle_in_histogram/Solution.dart)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n_log_n)_Space_O(log_n) | 370 | 100.00
+| 0079 |[Word Search](src/main/dart/g0001_0100/s0079_word_search/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 523 | 88.46
 | 0078 |[Subsets](src/main/dart/g0001_0100/s0078_subsets/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Algorithm_II_Day_9_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 296 | 96.88
 | 0076 |[Minimum Window Substring](src/main/dart/g0001_0100/s0076_minimum_window_substring/Solution.dart)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Big_O_Time_O(s.length())_Space_O(1) | 337 | 92.86
 | 0075 |[Sort Colors](src/main/dart/g0001_0100/s0075_sort_colors/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_2_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 314 | 79.31
