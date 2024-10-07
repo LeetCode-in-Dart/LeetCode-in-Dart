@@ -10,9 +10,9 @@ class LRUCache {
   }
 
   int get(int key) {
-    if(cache[key]==null){
+    if (cache[key] == null) {
       return -1;
-    }else{
+    } else {
       var value = cache[key];
       cache.remove(key);
       cache[key] = value;
@@ -21,11 +21,11 @@ class LRUCache {
   }
 
   void put(int key, int value) {
-    if(cache[key]!=null){
+    if (cache[key] != null) {
       cache.remove(key);
     }
     cache[key] = value;
-    if(length<cache.keys.length){
+    if (length < cache.keys.length) {
       cache.remove(cache.keys.first);
     }
   }
