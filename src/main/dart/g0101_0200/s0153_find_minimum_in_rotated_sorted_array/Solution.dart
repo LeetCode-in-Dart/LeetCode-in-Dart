@@ -10,15 +10,15 @@ class Solution {
     int mid = (l + r) ~/ 2; // Use integer division
 
     if (mid == l && nums[mid] < nums[r]) {
-    return nums[l];
+      return nums[l];
     }
     if (mid - 1 >= 0 && nums[mid - 1] > nums[mid]) {
-    return nums[mid];
+      return nums[mid];
     }
     if (nums[mid] < nums[l]) {
-    return findMinUtil(nums, l, mid - 1);
+      return findMinUtil(nums, l, mid - 1);
     } else if (nums[mid] > nums[r]) {
-    return findMinUtil(nums, mid + 1, r);
+      return findMinUtil(nums, mid + 1, r);
     }
     return findMinUtil(nums, l, mid - 1);
   }
