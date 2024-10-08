@@ -26,7 +26,6 @@ class Solution {
     if (leftNode.val != rightNode.val) {
       return false;
     }
-    return _helper(leftNode.left, rightNode.right) &&
-            _helper(leftNode.right, rightNode.left);
+    return _helper(leftNode.left, rightNode.right) && _helper(leftNode.right, rightNode.left);
   }
 }
