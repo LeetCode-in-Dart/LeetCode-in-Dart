@@ -13,10 +13,10 @@
  * }
  */
 class Solution {
-  int maxDepth(TreeNode?root) {
+  int maxDepth(TreeNode? root) {
     if (root == null) return 0;
-    final leftHeight =maxDepth(root.left);
-    final rightHeight =maxDepth(root.right);
+    final leftHeight = maxDepth(root.left);
+    final rightHeight = maxDepth(root.right);
     return max(leftHeight, rightHeight) + 1;
   }
 }

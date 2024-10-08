@@ -17,8 +17,7 @@ class Solution {
     List<int> colors = List.filled(numCourses, WHITE);
 
     for (int i = 0; i < numCourses; i++) {
-      if (colors[i] == WHITE && adj[i].isNotEmpty &&
-          _hasCycle(adj, i, colors)) {
+      if (colors[i] == WHITE && adj[i].isNotEmpty && _hasCycle(adj, i, colors)) {
         return false;
       }
     }
