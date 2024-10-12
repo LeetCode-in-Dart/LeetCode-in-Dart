@@ -142,6 +142,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0238 |[Product of Array Except Self](src/main/dart/g0201_0300/s0238_product_of_array_except_self/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 346 | 99.16
+| 0560 |[Subarray Sum Equals K](src/main/dart/g0501_0600/s0560_subarray_sum_equals_k/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 380 | 80.65
 
 #### Day 6 String
 
@@ -152,6 +153,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0763 |[Partition Labels](src/main/dart/g0701_0800/s0763_partition_labels/Solution.dart)| Medium | String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 311 | 100.00
 
 #### Day 8 String
 
@@ -226,6 +228,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/dart/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 381 | 94.12
+| 0347 |[Top K Frequent Elements](src/main/dart/g0301_0400/s0347_top_k_frequent_elements/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 337 | 97.50
 
 #### Day 21 Heap Priority Queue
 
@@ -347,6 +350,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 318 | 100.00
 
 #### Day 6 Breadth First Search Depth First Search
 
@@ -419,6 +423,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/dart/g1101_1200/s1143_longest_common_subsequence/Solution.dart)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 326 | 96.67
 
 #### Day 18 Dynamic Programming
 
@@ -724,6 +729,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/dart/g1101_1200/s1143_longest_common_subsequence/Solution.dart)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 326 | 96.67
 | 0072 |[Edit Distance](src/main/dart/g0001_0100/s0072_edit_distance/Solution.dart)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 333 | 100.00
 
 #### Day 20
@@ -832,6 +838,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0739 |[Daily Temperatures](src/main/dart/g0701_0800/s0739_daily_temperatures/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 429 | 80.43
 
 #### Day 7
 
@@ -864,6 +871,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 318 | 100.00
 
 #### Day 13
 
@@ -1101,6 +1109,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 318 | 100.00
 
 #### Day 13 Hashmap
 
@@ -1112,6 +1121,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0394 |[Decode String](src/main/dart/g0301_0400/s0394_decode_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 283 | 100.00
 
 #### Day 15 Heap
 
@@ -1158,6 +1168,8 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0543 |[Diameter of Binary Tree](src/main/dart/g0501_0600/s0543_diameter_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 326 | 89.47
+| 0437 |[Path Sum III](src/main/dart/g0401_0500/s0437_path_sum_iii/Solution.dart)| Medium | Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 357 | 100.00
 
 #### Day 8 Binary Search
 
@@ -1193,6 +1205,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0416 |[Partition Equal Subset Sum](src/main/dart/g0401_0500/s0416_partition_equal_subset_sum/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 381 | 90.91
 | 0152 |[Maximum Product Subarray](src/main/dart/g0101_0200/s0152_maximum_product_subarray/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 347 | 81.82
 
 #### Day 14 Sliding Window/Two Pointer
@@ -1255,6 +1268,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 | 0003 |[Longest Substring Without Repeating Characters](src/main/dart/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 336 | 99.68
 | 0020 |[Valid Parentheses](src/main/dart/g0001_0100/s0020_valid_parentheses/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 298 | 95.87
 | 0005 |[Longest Palindromic Substring](src/main/dart/g0001_0100/s0005_longest_palindromic_substring/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 297 | 97.22
+| 0394 |[Decode String](src/main/dart/g0301_0400/s0394_decode_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 283 | 100.00
 | 0049 |[Group Anagrams](src/main/dart/g0001_0100/s0049_group_anagrams/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 376 | 92.86
 
 #### Udemy Binary Search
@@ -1324,6 +1338,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/dart/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 287 | 95.71
 | 0102 |[Binary Tree Level Order Traversal](src/main/dart/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.dart)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 329 | 87.50
+| 0543 |[Diameter of Binary Tree](src/main/dart/g0501_0600/s0543_diameter_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 326 | 89.47
 | 0226 |[Invert Binary Tree](src/main/dart/g0201_0300/s0226_invert_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 300 | 80.95
 | 0104 |[Maximum Depth of Binary Tree](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 319 | 91.67
 | 0124 |[Binary Tree Maximum Path Sum](src/main/dart/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.dart)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 333 | 85.71
@@ -1351,6 +1366,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 | 0070 |[Climbing Stairs](src/main/dart/g0001_0100/s0070_climbing_stairs/Solution.dart)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 301 | 81.01
 | 0064 |[Minimum Path Sum](src/main/dart/g0001_0100/s0064_minimum_path_sum/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 328 | 88.89
 | 0300 |[Longest Increasing Subsequence](src/main/dart/g0201_0300/s0300_longest_increasing_subsequence/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 332 | 96.15
+| 1143 |[Longest Common Subsequence](src/main/dart/g1101_1200/s1143_longest_common_subsequence/Solution.dart)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 326 | 96.67
 | 0072 |[Edit Distance](src/main/dart/g0001_0100/s0072_edit_distance/Solution.dart)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 333 | 100.00
 | 0010 |[Regular Expression Matching](src/main/dart/g0001_0100/s0010_regular_expression_matching/Solution.dart)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 341 | 81.82
 
@@ -1368,6 +1384,7 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0338 |[Counting Bits](src/main/dart/g0301_0400/s0338_counting_bits/Solution.dart)| Easy | Dynamic_Programming, Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 303 | 100.00
 
 #### Udemy Design
 
@@ -1379,6 +1396,19 @@ Dart-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 1143 |[Longest Common Subsequence](src/main/dart/g1101_1200/s1143_longest_common_subsequence/Solution.dart)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 326 | 96.67
+| 0763 |[Partition Labels](src/main/dart/g0701_0800/s0763_partition_labels/Solution.dart)| Medium | String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 311 | 100.00
+| 0739 |[Daily Temperatures](src/main/dart/g0701_0800/s0739_daily_temperatures/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 429 | 80.43
+| 0647 |[Palindromic Substrings](src/main/dart/g0601_0700/s0647_palindromic_substrings/Solution.dart)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 313 | 90.00
+| 0560 |[Subarray Sum Equals K](src/main/dart/g0501_0600/s0560_subarray_sum_equals_k/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 380 | 80.65
+| 0543 |[Diameter of Binary Tree](src/main/dart/g0501_0600/s0543_diameter_of_binary_tree/Solution.dart)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 326 | 89.47
+| 0494 |[Target Sum](src/main/dart/g0401_0500/s0494_target_sum/Solution.dart)| Medium | Array, Dynamic_Programming, Backtracking, Big_O_Time_O(n\*(sum+s))_Space_O(n\*(sum+s)) | 334 | 90.91
+| 0438 |[Find All Anagrams in a String](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Programming_Skills_II_Day_12, Level_1_Day_12_Sliding_Window/Two_Pointer, Big_O_Time_O(n+m)_Space_O(1) | 318 | 100.00
+| 0437 |[Path Sum III](src/main/dart/g0401_0500/s0437_path_sum_iii/Solution.dart)| Medium | Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Big_O_Time_O(n)_Space_O(n) | 357 | 100.00
+| 0416 |[Partition Equal Subset Sum](src/main/dart/g0401_0500/s0416_partition_equal_subset_sum/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Level_2_Day_13_Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 381 | 90.91
+| 0394 |[Decode String](src/main/dart/g0301_0400/s0394_decode_string/Solution.dart)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Level_1_Day_14_Stack, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 283 | 100.00
+| 0347 |[Top K Frequent Elements](src/main/dart/g0301_0400/s0347_top_k_frequent_elements/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(k) | 337 | 97.50
+| 0338 |[Counting Bits](src/main/dart/g0301_0400/s0338_counting_bits/Solution.dart)| Easy | Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 303 | 100.00
 | 0322 |[Coin Change](src/main/dart/g0301_0400/s0322_coin_change/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 322 | 100.00
 | 0300 |[Longest Increasing Subsequence](src/main/dart/g0201_0300/s0300_longest_increasing_subsequence/Solution.dart)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 332 | 96.15
 | 0295 |[Find Median from Data Stream](src/main/dart/g0201_0300/s0295_find_median_from_data_stream/MedianFinder.dart)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 602 | 100.00
